@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SistemaPedidos.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df280b0492dd5d20ea2114b24c70138e95db6023")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dee9418152a2e6425c2060caa9e4ad5bbb73e40b")]
 [assembly: System.Reflection.AssemblyProductAttribute("SistemaPedidos.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SistemaPedidos.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
