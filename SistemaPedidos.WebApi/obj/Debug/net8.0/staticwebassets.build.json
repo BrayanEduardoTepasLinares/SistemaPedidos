@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "CrL3PVPqPaRJCgYMEeWZhMbsHX2dDWnDKfYqPcLlUj0=",
+  "Source": "SistemaPedidos.WebApi",
+  "BasePath": "_content/SistemaPedidos.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
