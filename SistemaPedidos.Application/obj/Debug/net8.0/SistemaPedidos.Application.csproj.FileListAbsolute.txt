@@ -1,0 +1,16 @@
+/workspaces/SistemaPedidos/SistemaPedidos.Application/bin/Debug/net8.0/SistemaPedidos.Application.deps.json
+/workspaces/SistemaPedidos/SistemaPedidos.Application/bin/Debug/net8.0/SistemaPedidos.Application.dll
+/workspaces/SistemaPedidos/SistemaPedidos.Application/bin/Debug/net8.0/SistemaPedidos.Application.pdb
+/workspaces/SistemaPedidos/SistemaPedidos.Application/bin/Debug/net8.0/SistemaPedidos.Domain.dll
+/workspaces/SistemaPedidos/SistemaPedidos.Application/bin/Debug/net8.0/SistemaPedidos.Domain.pdb
+/workspaces/SistemaPedidos/SistemaPedidos.Application/obj/Debug/net8.0/SistemaPedidos.Application.csproj.AssemblyReference.cache
+/workspaces/SistemaPedidos/SistemaPedidos.Application/obj/Debug/net8.0/SistemaPedidos.Application.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/SistemaPedidos/SistemaPedidos.Application/obj/Debug/net8.0/SistemaPedidos.Application.AssemblyInfoInputs.cache
+/workspaces/SistemaPedidos/SistemaPedidos.Application/obj/Debug/net8.0/SistemaPedidos.Application.AssemblyInfo.cs
+/workspaces/SistemaPedidos/SistemaPedidos.Application/obj/Debug/net8.0/SistemaPedidos.Application.csproj.CoreCompileInputs.cache
+/workspaces/SistemaPedidos/SistemaPedidos.Application/obj/Debug/net8.0/SistemaPedidos.Application.sourcelink.json
+/workspaces/SistemaPedidos/SistemaPedidos.Application/obj/Debug/net8.0/SistemaP.E5732979.Up2Date
+/workspaces/SistemaPedidos/SistemaPedidos.Application/obj/Debug/net8.0/SistemaPedidos.Application.dll
+/workspaces/SistemaPedidos/SistemaPedidos.Application/obj/Debug/net8.0/refint/SistemaPedidos.Application.dll
+/workspaces/SistemaPedidos/SistemaPedidos.Application/obj/Debug/net8.0/SistemaPedidos.Application.pdb
+/workspaces/SistemaPedidos/SistemaPedidos.Application/obj/Debug/net8.0/ref/SistemaPedidos.Application.dll

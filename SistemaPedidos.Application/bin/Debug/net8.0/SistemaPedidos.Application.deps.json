@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SistemaPedidos.Application/1.0.0": {
+        "dependencies": {
+          "SistemaPedidos.Domain": "1.0.0"
+        },
+        "runtime": {
+          "SistemaPedidos.Application.dll": {}
+        }
+      },
+      "SistemaPedidos.Domain/1.0.0": {
+        "runtime": {
+          "SistemaPedidos.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SistemaPedidos.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SistemaPedidos.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

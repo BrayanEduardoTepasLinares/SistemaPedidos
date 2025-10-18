@@ -1,0 +1,12 @@
+/workspaces/SistemaPedidos/SistemaPedidos.Domain/bin/Debug/net8.0/SistemaPedidos.Domain.deps.json
+/workspaces/SistemaPedidos/SistemaPedidos.Domain/bin/Debug/net8.0/SistemaPedidos.Domain.dll
+/workspaces/SistemaPedidos/SistemaPedidos.Domain/bin/Debug/net8.0/SistemaPedidos.Domain.pdb
+/workspaces/SistemaPedidos/SistemaPedidos.Domain/obj/Debug/net8.0/SistemaPedidos.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/SistemaPedidos/SistemaPedidos.Domain/obj/Debug/net8.0/SistemaPedidos.Domain.AssemblyInfoInputs.cache
+/workspaces/SistemaPedidos/SistemaPedidos.Domain/obj/Debug/net8.0/SistemaPedidos.Domain.AssemblyInfo.cs
+/workspaces/SistemaPedidos/SistemaPedidos.Domain/obj/Debug/net8.0/SistemaPedidos.Domain.csproj.CoreCompileInputs.cache
+/workspaces/SistemaPedidos/SistemaPedidos.Domain/obj/Debug/net8.0/SistemaPedidos.Domain.sourcelink.json
+/workspaces/SistemaPedidos/SistemaPedidos.Domain/obj/Debug/net8.0/SistemaPedidos.Domain.dll
+/workspaces/SistemaPedidos/SistemaPedidos.Domain/obj/Debug/net8.0/refint/SistemaPedidos.Domain.dll
+/workspaces/SistemaPedidos/SistemaPedidos.Domain/obj/Debug/net8.0/SistemaPedidos.Domain.pdb
+/workspaces/SistemaPedidos/SistemaPedidos.Domain/obj/Debug/net8.0/ref/SistemaPedidos.Domain.dll
